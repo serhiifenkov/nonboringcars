@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nonboringcars
 - 👀 I’m interested in nonboring cars
 - 🌱 I’m currently learning programmimg smart contracts
-- 📫 How to reach me - up to you
+- 📫 How to reach me - up to you. but better just leave me :D
 
 <!---
 nonboringcars/nonboringcars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
