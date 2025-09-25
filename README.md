@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nonboringcars
+- 👋 Hi, I’m @serhiifenkove
 - 👀 I’m interested in nonboring cars
 - 🌱 I’m currently learning programmimg smart contracts
 - 📫 How to reach me - up to you. but better just leave me alone:D
